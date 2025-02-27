@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.toolbar {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button, select, input {
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    background: #007bff;
+    color: white;
+    font-size: 14px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+.editor {
+    border: 1px solid #ccc;
+    min-height: 300px;
+    padding: 10px;
+    background: white;
+    overflow-y: auto;
+}
+
+.resize-handle {
+    width: 10px;
+    height: 10px;
+    background: red;
+    position: absolute;
+    cursor: nwse-resize;
+}
