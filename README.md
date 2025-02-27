@@ -4,14 +4,21 @@ ChinText Editor is a lightweight, customizable text editor designed to simplify 
 Features:
 
 Rich Text Formatting: Bold, italic, underline, and font customization.
+
 Drag & Drop / Paste Image Support: Easily add images directly into the editor.
+
 Image Resizing: Resize images by dragging handles.
+
 Font Selection: Choose from a variety of pre-defined fonts.
+
 Modern & Minimalistic UI: Clean and simple interface, designed for usability.
+
 Customizable Toolbar: Add buttons and functionality to meet your needs.
+
 Whether you’re building a web app, CMS, or content editor, ChinText Editor provides an easy-to-use, flexible text editing solution that saves time and boosts productivity.
 
 Installation: To install ChinText Editor in your project:
+
 npm install chintext-editor
 
 Usage: 
