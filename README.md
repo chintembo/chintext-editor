@@ -22,6 +22,7 @@ Installation: To install ChinText Editor in your project:
 npm install chintext-editor
 
 Usage: 
+
 import initializeChinText from "chintext-editor";
 
 initializeChinText("#editor");
